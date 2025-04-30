@@ -1,0 +1,9 @@
+
+fastapi
+sqlmodel
+pymysql
+pillow
+requests
+rich
+python_dotenv
+langchain_openai
